@@ -1,4 +1,3 @@
-### Hi there 👋
 <p align="center">
   <samp>
     <a href="https://marcterradas.github.io/">Portfolio</a> .
